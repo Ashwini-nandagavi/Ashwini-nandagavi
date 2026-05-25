@@ -87,7 +87,6 @@ I am committed to continuous learning, professional excellence, and staying upda
 
 ---
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ashwini-nandagavi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ashwini-nandagavi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashwini-nandagavi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
