@@ -85,11 +85,8 @@ I am committed to continuous learning, professional excellence, and staying upda
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-8E44AD?style=for-the-badge)
 ![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-2ECC71?style=for-the-badge)
 
-## 📫 Let's Connect
-
-📧 ashwininandagavi173@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/ashwini-nandagavi
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/ashwini-nandagavi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwininandagavi173@gmail.com ) 
 
 ---
-
 ⭐ Actively seeking Data Analyst / AI / Machine Learning / Data Science / Full-Stack Development  
