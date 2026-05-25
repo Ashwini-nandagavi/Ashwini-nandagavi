@@ -32,6 +32,7 @@ My project work spans interactive analytical dashboards, real-time web applicati
 I am committed to continuous learning, professional excellence, and staying updated with advancements in AI/ML, Data Engineering, and modern software development. I aim to contribute to dynamic, data-driven teams by applying analytical rigor, technical proficiency, and a strong problem-solving mindset.
 
 
+
 ## 🛠️ Technical Skillset  
 
 ### 💻 Programming Languages  
