@@ -23,7 +23,13 @@
 ## 🚀 About Me 
 ---
 
-Aspiring Data Science and AI professional with a strong background in Python programming, machine learning, data analysis, and visualization. My technical experience spans data preprocessing, exploratory data analysis, and model development, supported by hands-on exposure to web development technologies such as HTML, CSS, JavaScript, Django, and Flask. I bring a detail-oriented and analytical approach to problem-solving, along with a commitment to continuous learning and professional excellence. I am eager to contribute to impactful projects and add value to data-driven teams within a dynamic corporate environment.
+Aspiring Data Science and Artificial Intelligence professional with a solid foundation in Python programming, Machine Learning, Data Analysis, and Data Visualization. My experience includes performing exploratory data analysis (EDA), data preprocessing, statistical modeling, and developing interactive dashboards using technologies such as Pandas, NumPy, Matplotlib, Plotly, and Streamlit.
+
+In addition to my analytics background, I have practical experience in full-stack web development using HTML, CSS, JavaScript, PHP, Django, Flask, and MySQL, enabling me to design and implement end-to-end applications that integrate data-driven functionalities with efficient, user-centered interfaces.
+
+My project work spans interactive analytical dashboards, real-time web applications, and ML-based insight generation, with a focus on delivering scalable and meaningful solutions aligned with business objectives.
+
+I am committed to continuous learning, professional excellence, and staying updated with advancements in AI/ML, Data Engineering, and modern software development. I aim to contribute to dynamic, data-driven teams by applying analytical rigor, technical proficiency, and a strong problem-solving mindset.
 
 
 ## 🛠️ Technical Skillset  
