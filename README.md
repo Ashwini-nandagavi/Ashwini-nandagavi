@@ -13,14 +13,13 @@
   </a>
 </p>
 
-
 <p align="center">
   AI • Machine Learning • Data Science • Full-Stack Development  
 </p>
 
 ---
 ## 🚀 About Me 
----
+
 Aspiring Data Science and Artificial Intelligence professional with a solid foundation in Python programming, Machine Learning, Data Analysis, and Data Visualization. My experience includes performing exploratory data analysis (EDA), data preprocessing, statistical modeling, and developing interactive dashboards using technologies such as Pandas, NumPy, Matplotlib, Plotly, and Streamlit.
 
 In addition to my analytics background, I have practical experience in full-stack web development using HTML, CSS, JavaScript, PHP, Django, Flask, and MySQL, enabling me to design and implement end-to-end applications that integrate data-driven functionalities with efficient, user-centered interfaces.
@@ -28,7 +27,7 @@ In addition to my analytics background, I have practical experience in full-stac
 My project work spans interactive analytical dashboards, real-time web applications, and ML-based insight generation, with a focus on delivering scalable and meaningful solutions aligned with business objectives.
 
 I am committed to continuous learning, professional excellence, and staying updated with advancements in AI/ML, Data Engineering, and modern software development. I aim to contribute to dynamic, data-driven teams by applying analytical rigor, technical proficiency, and a strong problem-solving mindset.
-
+---
 
 
 ## 🛠️ Technical Skillset  
